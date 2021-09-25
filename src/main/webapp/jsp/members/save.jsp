@@ -1,5 +1,5 @@
-<%@ page import="hello.servelt.domain.member.Member" %>
-<%@ page import="hello.servelt.domain.member.MemberRepository" %><%--
+<%@ page import="hello.servlet.domain.member.Member" %>
+<%@ page import="hello.servlet.domain.member.MemberRepository" %><%--
   Created by IntelliJ IDEA.
   User: real_
   Date: 2021-09-11
